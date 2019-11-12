@@ -29,6 +29,7 @@ Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop o
 * Python 3.6 +
 * `requests`
 * `BeautifulSoup`
+* BONUS: een API key van ProPublica voor hun Congress data
 
 #
 
