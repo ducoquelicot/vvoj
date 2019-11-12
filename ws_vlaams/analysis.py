@@ -1,3 +1,10 @@
+'''
+
+Analyse van de gescrapede data van het Vlaams parlement. Berekent hoeveel vragen er gesteld zijn, en welke politicus en partij de meeste vragen heeft gesteld. 
+
+'''
+
+
 from bs4 import BeautifulSoup
 import os, fnmatch, glob, re
 from collections import Counter

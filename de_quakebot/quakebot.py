@@ -1,3 +1,11 @@
+''' 
+
+Script om een quakebot te maken die de top tien grootste aardbevingen van de afgelopen 24 uur binnenhaalt. Optioneel mogelijk om het resultaat
+naar jezelf te mailen. 
+
+'''
+
+
 import os, requests, smtplib
 
 def main():

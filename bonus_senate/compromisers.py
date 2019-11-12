@@ -1,3 +1,9 @@
+'''
+
+Script dat werkt met de ProPublica Congress API. Gebruikt deze om voor de Dems en GOPs de top vijf politici op te lijsten die het minst vaak met hun partij meestemmen. 
+
+'''
+
 import os
 import requests
 
