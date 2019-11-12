@@ -7,13 +7,11 @@
 * Nodig om deze repo te gebruiken
 * Contact
 
-#
 
 ## Doel van de repo
 
 Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop over web scraping en data extraction met Python. In deze repo vind je alle voorbeelden die zijn besproken tijdens de workshop.
 
-# 
 
 ## Wat vind je in deze repo?
 
@@ -22,7 +20,6 @@ Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop o
 * `de_quakebot`: een data extraction script dat de top tien heftigste aardbevingen van de afgelopen 24 uur opslaat en naar een mailadres naar keuze mailt.
 * `bonus_senate`: bonus datascript dat werkt met een API.
 
-# 
 
 ## Nodig om deze repo te gebruiken
 
@@ -31,7 +28,6 @@ Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop o
 * `BeautifulSoup`
 * BONUS: een API key van ProPublica voor hun Congress data
 
-#
 
 ## Contact
 
