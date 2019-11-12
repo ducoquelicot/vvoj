@@ -11,7 +11,7 @@
 
 ## Doel van de repo
 
-Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop over web scraping en data extraction met Python. In deze repo vind je alle voorbeelden die zijn besproken tijdens de workshop, met documentatie om je door de voorbeelden te leiden/
+Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop over web scraping en data extraction met Python. In deze repo vind je alle voorbeelden die zijn besproken tijdens de workshop.
 
 # 
 
