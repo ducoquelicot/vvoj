@@ -19,6 +19,7 @@ Deze repository is bedoeld voor deelnemers aan de #VVOJ19 conferentie-workshop o
 * `ws_vlaams`: een scraper en data extraction script dat eerst alle pagina's met vragen scrapet en vervolgens informatie eruit haalt over de partij en degene die de meeste vragen stelt. 
 * `de_quakebot`: een data extraction script dat de top tien heftigste aardbevingen van de afgelopen 24 uur opslaat en naar een mailadres naar keuze mailt.
 * `bonus_senate`: bonus datascript dat werkt met een API.
+* de powerpoint van de presentatie op 22 november 2019.
 
 
 ## Nodig om deze repo te gebruiken
