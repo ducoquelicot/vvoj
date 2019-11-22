@@ -17,10 +17,11 @@ def main():
 
     for year in pa_agenda.keys():
         output = scrape(pa_agenda[year])
+        print(output)
         agendas = get_links(output)
-        writeout(agendas, year)
+#         writeout(agendas, year)
 
-        print(agendas)
+#         print(agendas)
 
 def scrape(html_link):
 #   Scrape is een functie die alle links van de url opslaat in een list.
@@ -34,6 +35,7 @@ def get_links(links):
     agendas = []
     for row in links:
         if row.getText()== 'Agenda and Packet':
+            print(row)
             if fnmatch.fnmatch(row['href'], '*://www.cityofpaloalto.org/*'):
                 agendas.append(row['href'])
                 time.sleep(2)
